@@ -3,11 +3,8 @@
 /**
  * iOS Shortcuts
  *
- * JS scripts that generate shortcuts for the iOS Shortcuts app.
- *
- * @author amrwc
- * @license MIT
+ * Generate the shortcuts in this repository.
  */
 
-// Generate all shortcuts
 require('./shortcuts/good-night');
+require('./shortcuts/niwa-open-chatgpt');
